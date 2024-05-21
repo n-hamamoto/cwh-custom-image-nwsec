@@ -1,1 +1,2 @@
 lc-nblineage @ git+https://github.com/NII-cloud-operation/Jupyter-LC_nblineage@c310decc8ae6aa597ff6129aca5952012d7e9896
+lc_wrapper @ https://github.com/NII-cloud-operation/Jupyter-LC_wrapper/tarball/master#sha256=4ec42fe20ee7dedf475be555a533290ddd3fd472442c39ef544ae29b15c9fd4c
