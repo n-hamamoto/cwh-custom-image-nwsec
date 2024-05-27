@@ -1,6 +1,7 @@
 dnsutils
 iproute2
 iputils-ping
+iputils-tracepath
 sudo
 tcpdump
 rsync
