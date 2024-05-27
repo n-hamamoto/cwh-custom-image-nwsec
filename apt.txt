@@ -3,6 +3,7 @@ iproute2
 iputils-ping
 iputils-tracepath
 traceroute
+arping
 sudo
 tcpdump
 rsync
