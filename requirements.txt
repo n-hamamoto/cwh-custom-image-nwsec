@@ -6,3 +6,5 @@ lc_wrapper @ https://github.com/NII-cloud-operation/Jupyter-LC_wrapper/tarball/m
 nbclassic==1.1.0
 nblineage @ https://github.com/NII-cloud-operation/Jupyter-LC_nblineage/releases/download/0.2.0.rc1/nblineage-0.2.0.rc1.tar.gz#sha256=83c72f47fba076f382578d39a5d2622054546ad8f8ad80a91a37aabd5dbf6f55
 notebook==6.*
+numpy==2.2.*
+matplotlib==3.10.*
